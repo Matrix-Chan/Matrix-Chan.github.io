@@ -4,12 +4,12 @@ title: "Research"
 classes: wide
 excerpt: "something"
 header:
-  overlay_image: /assets/images/uc_1868.png
+  overlay_image: /assets/images/logo01_white.jpg
   overlay_filter: 0.4 # same as adding an opacity of alpha to a black background
   caption: "University of California logo"
   actions:
     - label: "Something."
-      url: "https://en.wikipedia.org/wiki/University_of_California"
+      url: "http://www.cqjtu.edu.cn/"
 ---
 
 
