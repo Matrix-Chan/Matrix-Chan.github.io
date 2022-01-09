@@ -1,10 +1,10 @@
 ---
-title: "Simplicial Lattice and Lagrange Elements"
-date: 2022-01-02
+title: "《数理统计》复习"
+date: 2022-01-09
 categories:
   - Blog
 tags:
-  - Research
+  - Teaching
   - FEM
 ---
 
