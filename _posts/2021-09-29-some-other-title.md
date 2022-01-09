@@ -12,5 +12,5 @@ tags:
 ## 贴图测试
 
 
-<img src="{{site.baseurl}}/assets/images/uc_1868.png" width=600>
+<img src="{{site.baseurl}}/assets/images/logo01_white.jpg" width=600>
 
