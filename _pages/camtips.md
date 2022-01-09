@@ -1,6 +1,6 @@
 ---
 permalink: /MStips/
-title: "数理统计复习"
+title: "数理统计Tips"
 classes: wide
 excerpt: "MStips旨在传播数理统计学习和研究中的方法和心得。"
 header:
