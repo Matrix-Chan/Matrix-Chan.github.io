@@ -13,6 +13,6 @@ header:
 ---
 
 
-## About CAMTips
+## About MSTips
 
 something
