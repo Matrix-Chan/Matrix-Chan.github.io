@@ -1,5 +1,5 @@
 ---
-title: "Posts by categorie"
+title: "Posts by Categorie"
 permalink: /categories/
 layout: categories
 classes: wide
