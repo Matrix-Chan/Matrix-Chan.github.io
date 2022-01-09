@@ -15,4 +15,4 @@ header:
 
 ## About MSTips
 
-something
+Tips for Mathematical Statistics.
