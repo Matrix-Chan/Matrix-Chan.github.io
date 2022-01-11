@@ -5,26 +5,26 @@
 # - author: "First Last"
 # in the page preamble
 
-Long Chen:
-  name        : "Long Chen"
-  bio         : "Professor of Mathematics at University of California, Irvine"
-  avatar      : "https://www.math.uci.edu/sites/default/files/Math%20Faculty-008.jpg"
+Xiaofeng Chen:
+  name        : "Xiaofeng Chen"
+  bio         : "Professor of Mathematics at Chongqing Jiaotong University, Chongqing China"
+  avatar      : "http://math.cqjtu.edu.cn/info/1015/4292.htm"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:chenlong@math.uci.edu"
+      url: "mailto:xxffchg@126.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.math.uci.edu/~chenlong/"
+      url: "http://math.cqjtu.edu.cn/info/1015/4292.htm"
 
 
-Shuhao Cao:
-  name        : "Shuhao Cao"
+Hua Li:
+  name        : "Hua Li"
   bio: " "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:scaomath@gmail.com"
+      url: "mailto:"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://scaomath.github.io/"
+      url: "https://"
