@@ -1,5 +1,5 @@
 ---
-title: "概率统计期末考试大题必会."
+title: "概率统计期末考试10道必会大题"
 date: 2022-01-11
 author: "Hua Li"
 categories:
