@@ -1,7 +1,7 @@
 ---
 title: "Testing different authors"
 date: 2021-09-30
-author: "Shuhao Cao"
+author: "Hua Li"
 categories:
   - Blog
 tags:
